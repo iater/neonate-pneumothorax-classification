@@ -1,2 +1,2 @@
 # neonate-pneumothorax-classification
-To classify pneumothorax in infantograms (X-ray)
+To identify pneumothorax in infantograms (with PyTorch)
